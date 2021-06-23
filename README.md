@@ -1,6 +1,6 @@
 Project Status : On Going...
 
-Site is live at : 
+Site is live at : https://vishal-bashetti.github.io/movies-app/
 
 Api used from : http://www.omdbapi.com/apikey.aspx 
 
