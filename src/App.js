@@ -34,7 +34,7 @@ useEffect(()=>{
   return (
     <div className="container-fluid movie-app">
     <div className="row d-flex align-items-center mb-4 mt-4">
-      <MovieListHeading heading = 'Movies' />
+      <MovieListHeading heading = 'The Movies' />
       <SearchBox searchValue = {searchValue}  setSearchValue={setSearchValue}/>
     </div>
       <div className="row">
